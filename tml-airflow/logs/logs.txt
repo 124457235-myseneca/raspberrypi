@@ -12214,3 +12214,4 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 [INFO 2024-10-18_04:09:36] Deleting topic iot-preprocess2 in tml_system_step_2_kafka_createtopic_dag-tss-project-2-b4b4.py
 [INFO 2024-10-18_04:09:38] Deleting topic ml-data in tml_system_step_2_kafka_createtopic_dag-tss-project-2-b4b4.py
 [INFO 2024-10-18_04:09:40] Deleting topic prediction-data in tml_system_step_2_kafka_createtopic_dag-tss-project-2-b4b4.py
+[INFO 2024-10-18_04:09:42] Deleting topic cisco-network-privategpt in tml_system_step_2_kafka_createtopic_dag-tss-project-2-b4b4.py

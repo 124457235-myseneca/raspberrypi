@@ -12644,3 +12644,4 @@ origin	https://<personal access token hidden>@github.com/124457235-myseneca/rasp
 [INFO 2024-11-14_23:17:18] Preprocessing DAG in tml_system_step_4_kafka_preprocess_dag-tssproject2ksa002-b4b4.py
 [INFO 2024-11-14_23:17:20] Visualization DAG in tml_system_step_7_kafka_visualization_dag-tssproject2ksa002-b4b4.py
 [INFO 2024-11-14_23:17:29] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-tssproject2ksa002-b4b4.py
+[INFO 2024-11-14_23:17:34] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-tssproject2ksa002-b4b4.py

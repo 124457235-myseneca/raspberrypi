@@ -12569,3 +12569,4 @@ origin	https://<personal access token hidden>@github.com/124457235-myseneca/rasp
 [INFO 2024-11-14_17:25:55] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-tssproject2ksa002-b4b4.py
 [INFO 2024-11-14_17:27:03] {'name': ['Project with slug "tssproject2ksa002-b4b4" already exists.']}
 [INFO 2024-11-14_17:37:38] Deleting topic cisco-network-mainstream in tml_system_step_2_kafka_createtopic_dag-tssproject2ksa002-b4b4.py
+[INFO 2024-11-14_17:37:40] Deleting topic cisco-network-preprocess in tml_system_step_2_kafka_createtopic_dag-tssproject2ksa002-b4b4.py

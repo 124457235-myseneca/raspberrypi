@@ -12673,3 +12673,4 @@ origin	https://<personal access token hidden>@github.com/124457235-myseneca/rasp
 [INFO 2024-11-19_16:59:17] Preprocessing DAG in tml_system_step_4_kafka_preprocess_dag-tssproject2ksa002-b4b4.py
 [INFO 2024-11-19_16:59:20] Machine Learning DAG in tml_system_step_5_kafka_machine_learning_dag-tssproject2ksa002-b4b4.py
 [INFO 2024-11-19_16:59:23] Predictions DAG in tml_system_step_6_kafka_predictions_dag-tssproject2ksa002-b4b4.py
+[INFO 2024-11-19_16:59:24] Visualization DAG in tml_system_step_7_kafka_visualization_dag-tssproject2ksa002-b4b4.py

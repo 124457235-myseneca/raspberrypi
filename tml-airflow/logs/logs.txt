@@ -12738,3 +12738,4 @@ origin	https://<personal access token hidden>@github.com/124457235-myseneca/rasp
 [INFO 2024-12-05_03:28:58] Deleting topic cisco-network-preprocess in tml_system_step_2_kafka_createtopic_dag-tssproject2ksa002-b4b4.py
 [INFO 2024-12-05_03:29:00] Deleting topic ml-data in tml_system_step_2_kafka_createtopic_dag-tssproject2ksa002-b4b4.py
 [INFO 2024-12-05_03:29:02] Deleting topic prediction-data in tml_system_step_2_kafka_createtopic_dag-tssproject2ksa002-b4b4.py
+[INFO 2024-12-05_03:29:04] Deleting topic cisco-network-privategpt in tml_system_step_2_kafka_createtopic_dag-tssproject2ksa002-b4b4.py

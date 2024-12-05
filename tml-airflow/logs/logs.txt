@@ -12744,3 +12744,4 @@ origin	https://<personal access token hidden>@github.com/124457235-myseneca/rasp
 [INFO 2024-12-05_03:29:17] Visualization DAG in tml_system_step_7_kafka_visualization_dag-tssproject2ksa002-b4b4.py
 [INFO 2024-12-05_03:29:26] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-tssproject2ksa002-b4b4.py
 [INFO 2024-12-05_03:29:32] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-tssproject2ksa002-b4b4.py
+[INFO 2024-12-05_03:30:42] {'name': ['Project with slug "tssproject2ksa002-b4b4" already exists.']}
